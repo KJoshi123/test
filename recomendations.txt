@@ -6,3 +6,8 @@ Git
 -log
 -status
 -push
+-pull
+-clone
+-gitignore
+-revert
+-reset
