@@ -1,1 +1,8 @@
-abc
+Git
+-add
+-remove
+-commit
+-diff
+-log
+-status
+-push
